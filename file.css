@@ -4,7 +4,10 @@ h1 {
     border-radius: 10px;
     
 }
+h6{color:brown;
+border:dotted red
 
+}
 .image {
     height: 500px;
 }
